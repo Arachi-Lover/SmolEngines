@@ -12,3 +12,5 @@ So I made 2 tiny engines similar to the Ion one the Barb uses, for Plasma and At
 [LowerDamage](https://github.com/Arachi-Lover/LowerDamage)
 [EvenLowerDamage](https://github.com/Arachi-Lover/EvenLowerDamage)
 [RacingFlivverModifications](https://github.com/Arachi-Lover/RacingFlivverModifications)
+[SmolEngines](https://github.com/Arachi-Lover/SmolEngines)
+[PirateVariantsHPFix](https://github.com/Arachi-Lover/PirateVariantsHPFix)
