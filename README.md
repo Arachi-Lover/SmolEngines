@@ -6,7 +6,7 @@ Carrier ships and the ships they carry not sharing the same style of engines, es
 
 So I made 2 tiny engines similar to the Ion one the Barb uses, for Plasma and Atomics. Both become available 100 days after `event: southern carriers 2`.
 
-No thumbnails for them sadly because opening up blender for the updated engine models is a task I find daunting.
+Thumbnails courtesy of Kitteh, thanks!
 
 #### Arachi's Plugins
 
