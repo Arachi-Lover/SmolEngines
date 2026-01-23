@@ -1,6 +1,6 @@
 
 outfit "Hamster Plasma Engines"
-	plural "Hamster Atomic Engines"
+	plural "Hamster Plasma Engines"
 	category "Engines"
 	series "Engines"
 	index 01099
@@ -47,3 +47,4 @@ outfit "A100 Atomic Engines"
 		"frame rate" 14
 	"steering flare sound" "atomic tiny"
 	description "Deep Sky joined the race for miniaturized engine systems relying heavily on marketing this compact set of atomic engines as the most reliable and compact option for both drones and fighters."
+
