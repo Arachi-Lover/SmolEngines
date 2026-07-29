@@ -6,7 +6,7 @@ outfit "X1050 Ion Engines"
 
 
 outfit "Hamster Plasma Engines"
-	plural "Hamster Atomic Engines"
+	plural "Hamster Plasma Engines"
 	category "Engines"
 	series "Engines"
 	index 01099
