@@ -8,6 +8,8 @@ So I made 2 tiny engines similar to the Ion one the Barb uses, for Plasma and At
 
 Thumbnails courtesy of Kitteh, thanks!
 
+Also rebalances the Ion engine a bit according to curvy math.
+
 #### Arachi's Plugins
 
 [LinearHPScaling](https://github.com/Arachi-Lover/LinearHPScaling)
